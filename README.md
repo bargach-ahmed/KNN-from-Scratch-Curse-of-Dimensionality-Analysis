@@ -1,7 +1,6 @@
-# KNN-from-Scratch-Curse-of-Dimensionality-Analysis
+# KNN from Scratch Curse of Dimensionality Analysis
 A modular Python implementation of the K-Nearest Neighbors (KNN) algorithm built from scratch. Features include interactive class prediction, 2D cluster visualization, decision boundary mapping, and an analysis of the Curse of Dimensionality.
 
-# KNN from Scratch & Curse of Dimensionality Analysis
 
 ##  Overview
 This project provides a modular, from-scratch implementation of the **K-Nearest Neighbors (KNN)** machine learning algorithm using Python. It separates the mathematical logic from the application layer, allowing for interactive predictions and detailed visualizations.
