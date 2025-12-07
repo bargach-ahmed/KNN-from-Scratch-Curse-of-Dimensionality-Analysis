@@ -30,4 +30,4 @@ Additionally, the project includes a mathematical simulation demonstrating the *
 Ensure you have Python installed. You will need the following libraries:
 
 ```bash
-pip install numpy matplotlib
+pip install -r requirements.txt
