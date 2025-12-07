@@ -3,12 +3,12 @@ A modular Python implementation of the K-Nearest Neighbors (KNN) algorithm built
 
 # KNN from Scratch & Curse of Dimensionality Analysis
 
-## 📌 Overview
+##  Overview
 This project provides a modular, from-scratch implementation of the **K-Nearest Neighbors (KNN)** machine learning algorithm using Python. It separates the mathematical logic from the application layer, allowing for interactive predictions and detailed visualizations.
 
 Additionally, the project includes a mathematical simulation demonstrating the **Curse of Dimensionality**, showing how Euclidean distance metrics degrade in high-dimensional spaces.
 
-## 📂 Project Structure
+##  Project Structure
 
 ### Core Logic
 * **`knn_core.py`**: The library file containing the reusable `knn()` algorithm and `load_data_from_csv()` function. This is imported by the other scripts.
